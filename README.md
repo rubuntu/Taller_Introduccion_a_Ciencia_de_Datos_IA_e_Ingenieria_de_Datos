@@ -1,2 +1,2 @@
-# Taller_Introduccion_a_Ciencia-de-Datos_IA_e_Ingenierias_de_Datos
-Taller de Introduccion de Datos, IA e Ingenierias de Datos con Python, orientado a Business Analytics &amp; Big Data
+# Taller Introduccion a Ciencia de Datos, IA e Ingenieria de Datos
+Taller de Introduccion de Ciencia de Datos, IA e Ingenieria de Datos con Python, orientado a Business Analytics &amp; Big Data
